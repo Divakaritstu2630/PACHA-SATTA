@@ -2,9 +2,6 @@
 
 An interactive chameleon garden. The page is a single self-contained HTML file: a sunlit canopy of branches, leaves, flowers and fruit, with a chameleon at the centre that watches the cursor, changes colour when you touch the garden, and catches worms with its tongue.
 
-**Run it:** double-click `index.html`, or open the published link (private by default; share it from the page's Share menu).
-**Published link:** https://claude.ai/artifact/PArGMowZa4zVxGWvfwQZdR
-**Status:** version 1 of the interactive build. Core features are implemented and not yet tested across browsers or on phones.
 
 ---
 
