@@ -28,7 +28,7 @@ The chameleon is the emotional centre. Its eyes follow the viewer, its body take
 | Target | Desktop browsers first; phones and tablets supported by design (touch input) |
 | Sound | Generated in the browser (Web Audio). No audio files |
 | Fonts | Cinzel Decorative (Google Fonts), with Georgia as fallback |
-| Owner | Sashi Pillai M |
+| Owner | Divakar S and Sashi Pillai M |
 
 ### Features
 
